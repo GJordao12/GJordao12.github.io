@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7d200343.chunk.css",
-    "main.js": "/static/js/main.a1d85326.chunk.js",
-    "main.js.map": "/static/js/main.a1d85326.chunk.js.map",
+    "main.js": "/static/js/main.1e1371ac.chunk.js",
+    "main.js.map": "/static/js/main.1e1371ac.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e107391b.js",
     "runtime-main.js.map": "/static/js/runtime-main.e107391b.js.map",
     "static/js/2.0da966b3.chunk.js": "/static/js/2.0da966b3.chunk.js",
@@ -14,8 +14,8 @@
     "static/media/CSS.7d039f84.png": "/static/media/CSS.7d039f84.png",
     "static/media/ISEP.81c8c1ac.png": "/static/media/ISEP.81c8c1ac.png",
     "static/media/NFT.ae789b48.png": "/static/media/NFT.ae789b48.png",
-    "static/media/computer-database.939b8cf2.jpg": "/static/media/computer-database.939b8cf2.jpg",
-    "static/media/courses-database.84649a47.jpg": "/static/media/courses-database.84649a47.jpg",
+    "static/media/computer-database.d712c286.png": "/static/media/computer-database.d712c286.png",
+    "static/media/courses-database.d3b6e37e.png": "/static/media/courses-database.d3b6e37e.png",
     "static/media/discord-bot-aylog.e18a0cfb.png": "/static/media/discord-bot-aylog.e18a0cfb.png",
     "static/media/dotnet.f9abf75e.png": "/static/media/dotnet.f9abf75e.png",
     "static/media/fiverr.fa5fb83f.svg": "/static/media/fiverr.fa5fb83f.svg",
@@ -24,7 +24,7 @@
     "static/media/javaFX.c61cbd15.png": "/static/media/javaFX.c61cbd15.png",
     "static/media/js.db393457.png": "/static/media/js.db393457.png",
     "static/media/markdown.2d332384.png": "/static/media/markdown.2d332384.png",
-    "static/media/market.c88219f2.PNG": "/static/media/market.c88219f2.PNG",
+    "static/media/market.45b81414.PNG": "/static/media/market.45b81414.PNG",
     "static/media/me.ab3552ea.jpg": "/static/media/me.ab3552ea.jpg",
     "static/media/nodejs.7b7c4003.png": "/static/media/nodejs.7b7c4003.png",
     "static/media/react.73ac128a.png": "/static/media/react.73ac128a.png",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.e107391b.js",
     "static/js/2.0da966b3.chunk.js",
     "static/css/main.7d200343.chunk.css",
-    "static/js/main.a1d85326.chunk.js"
+    "static/js/main.1e1371ac.chunk.js"
   ]
 }
