@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7d200343.chunk.css",
-    "main.js": "/static/js/main.1e1371ac.chunk.js",
-    "main.js.map": "/static/js/main.1e1371ac.chunk.js.map",
+    "main.js": "/static/js/main.2eb966e4.chunk.js",
+    "main.js.map": "/static/js/main.2eb966e4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e107391b.js",
     "runtime-main.js.map": "/static/js/runtime-main.e107391b.js.map",
     "static/js/2.0da966b3.chunk.js": "/static/js/2.0da966b3.chunk.js",
@@ -18,6 +18,7 @@
     "static/media/courses-database.d3b6e37e.png": "/static/media/courses-database.d3b6e37e.png",
     "static/media/discord-bot-aylog.e18a0cfb.png": "/static/media/discord-bot-aylog.e18a0cfb.png",
     "static/media/dotnet.f9abf75e.png": "/static/media/dotnet.f9abf75e.png",
+    "static/media/earth-app.dc5c68dc.jpg": "/static/media/earth-app.dc5c68dc.jpg",
     "static/media/fiverr.fa5fb83f.svg": "/static/media/fiverr.fa5fb83f.svg",
     "static/media/html.b18bb7da.png": "/static/media/html.b18bb7da.png",
     "static/media/java.6c64373d.png": "/static/media/java.6c64373d.png",
@@ -36,6 +37,6 @@
     "static/js/runtime-main.e107391b.js",
     "static/js/2.0da966b3.chunk.js",
     "static/css/main.7d200343.chunk.css",
-    "static/js/main.1e1371ac.chunk.js"
+    "static/js/main.2eb966e4.chunk.js"
   ]
 }
