@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7d200343.chunk.css",
-    "main.js": "/static/js/main.b96e1fc8.chunk.js",
-    "main.js.map": "/static/js/main.b96e1fc8.chunk.js.map",
+    "main.js": "/static/js/main.a1d85326.chunk.js",
+    "main.js.map": "/static/js/main.a1d85326.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e107391b.js",
     "runtime-main.js.map": "/static/js/runtime-main.e107391b.js.map",
     "static/js/2.0da966b3.chunk.js": "/static/js/2.0da966b3.chunk.js",
@@ -13,6 +13,7 @@
     "static/media/C.867c839c.png": "/static/media/C.867c839c.png",
     "static/media/CSS.7d039f84.png": "/static/media/CSS.7d039f84.png",
     "static/media/ISEP.81c8c1ac.png": "/static/media/ISEP.81c8c1ac.png",
+    "static/media/NFT.ae789b48.png": "/static/media/NFT.ae789b48.png",
     "static/media/computer-database.939b8cf2.jpg": "/static/media/computer-database.939b8cf2.jpg",
     "static/media/courses-database.84649a47.jpg": "/static/media/courses-database.84649a47.jpg",
     "static/media/discord-bot-aylog.e18a0cfb.png": "/static/media/discord-bot-aylog.e18a0cfb.png",
@@ -35,6 +36,6 @@
     "static/js/runtime-main.e107391b.js",
     "static/js/2.0da966b3.chunk.js",
     "static/css/main.7d200343.chunk.css",
-    "static/js/main.b96e1fc8.chunk.js"
+    "static/js/main.a1d85326.chunk.js"
   ]
 }
