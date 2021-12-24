@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7d200343.chunk.css",
-    "main.js": "/static/js/main.5b10ee8b.chunk.js",
-    "main.js.map": "/static/js/main.5b10ee8b.chunk.js.map",
+    "main.js": "/static/js/main.665f360b.chunk.js",
+    "main.js.map": "/static/js/main.665f360b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e107391b.js",
     "runtime-main.js.map": "/static/js/runtime-main.e107391b.js.map",
     "static/js/2.93fca9e3.chunk.js": "/static/js/2.93fca9e3.chunk.js",
@@ -14,6 +14,7 @@
     "static/media/CSS.7d039f84.png": "/static/media/CSS.7d039f84.png",
     "static/media/ISEP.81c8c1ac.png": "/static/media/ISEP.81c8c1ac.png",
     "static/media/NFT.ae789b48.png": "/static/media/NFT.ae789b48.png",
+    "static/media/antlr.ff8aa8ce.png": "/static/media/antlr.ff8aa8ce.png",
     "static/media/computer-database.d712c286.png": "/static/media/computer-database.d712c286.png",
     "static/media/courses-database.d3b6e37e.png": "/static/media/courses-database.d3b6e37e.png",
     "static/media/discord-bot-aylog.e18a0cfb.png": "/static/media/discord-bot-aylog.e18a0cfb.png",
@@ -22,6 +23,7 @@
     "static/media/fiverr.fa5fb83f.svg": "/static/media/fiverr.fa5fb83f.svg",
     "static/media/freelancer-application.07df46b0.jpg": "/static/media/freelancer-application.07df46b0.jpg",
     "static/media/gnu.bd046e07.svg": "/static/media/gnu.bd046e07.svg",
+    "static/media/helpdesk-service.43d2649d.png": "/static/media/helpdesk-service.43d2649d.png",
     "static/media/html.b18bb7da.png": "/static/media/html.b18bb7da.png",
     "static/media/java.6c64373d.png": "/static/media/java.6c64373d.png",
     "static/media/javaFX.c61cbd15.png": "/static/media/javaFX.c61cbd15.png",
@@ -40,6 +42,6 @@
     "static/js/runtime-main.e107391b.js",
     "static/js/2.93fca9e3.chunk.js",
     "static/css/main.7d200343.chunk.css",
-    "static/js/main.5b10ee8b.chunk.js"
+    "static/js/main.665f360b.chunk.js"
   ]
 }
