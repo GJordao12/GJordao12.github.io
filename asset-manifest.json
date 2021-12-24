@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.7d200343.chunk.css",
-    "main.js": "/static/js/main.2eb966e4.chunk.js",
-    "main.js.map": "/static/js/main.2eb966e4.chunk.js.map",
+    "main.js": "/static/js/main.c2add060.chunk.js",
+    "main.js.map": "/static/js/main.c2add060.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e107391b.js",
     "runtime-main.js.map": "/static/js/runtime-main.e107391b.js.map",
-    "static/js/2.0da966b3.chunk.js": "/static/js/2.0da966b3.chunk.js",
-    "static/js/2.0da966b3.chunk.js.map": "/static/js/2.0da966b3.chunk.js.map",
+    "static/js/2.93fca9e3.chunk.js": "/static/js/2.93fca9e3.chunk.js",
+    "static/js/2.93fca9e3.chunk.js.map": "/static/js/2.93fca9e3.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.7d200343.chunk.css.map": "/static/css/main.7d200343.chunk.css.map",
-    "static/js/2.0da966b3.chunk.js.LICENSE.txt": "/static/js/2.0da966b3.chunk.js.LICENSE.txt",
+    "static/js/2.93fca9e3.chunk.js.LICENSE.txt": "/static/js/2.93fca9e3.chunk.js.LICENSE.txt",
     "static/media/C.867c839c.png": "/static/media/C.867c839c.png",
     "static/media/CSS.7d039f84.png": "/static/media/CSS.7d039f84.png",
     "static/media/ISEP.81c8c1ac.png": "/static/media/ISEP.81c8c1ac.png",
@@ -20,6 +20,7 @@
     "static/media/dotnet.f9abf75e.png": "/static/media/dotnet.f9abf75e.png",
     "static/media/earth-app.dc5c68dc.jpg": "/static/media/earth-app.dc5c68dc.jpg",
     "static/media/fiverr.fa5fb83f.svg": "/static/media/fiverr.fa5fb83f.svg",
+    "static/media/gnu.bd046e07.svg": "/static/media/gnu.bd046e07.svg",
     "static/media/html.b18bb7da.png": "/static/media/html.b18bb7da.png",
     "static/media/java.6c64373d.png": "/static/media/java.6c64373d.png",
     "static/media/javaFX.c61cbd15.png": "/static/media/javaFX.c61cbd15.png",
@@ -31,12 +32,13 @@
     "static/media/react.73ac128a.png": "/static/media/react.73ac128a.png",
     "static/media/sceneBuilder.af912fb4.webp": "/static/media/sceneBuilder.af912fb4.webp",
     "static/media/sql.2d1da8d0.png": "/static/media/sql.2d1da8d0.png",
+    "static/media/time-series.0fe5ac98.png": "/static/media/time-series.0fe5ac98.png",
     "static/media/vp.a247815d.png": "/static/media/vp.a247815d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e107391b.js",
-    "static/js/2.0da966b3.chunk.js",
+    "static/js/2.93fca9e3.chunk.js",
     "static/css/main.7d200343.chunk.css",
-    "static/js/main.2eb966e4.chunk.js"
+    "static/js/main.c2add060.chunk.js"
   ]
 }
