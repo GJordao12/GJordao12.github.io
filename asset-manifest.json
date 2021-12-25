@@ -1,27 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.7d200343.chunk.css",
-    "main.js": "/static/js/main.bf39f585.chunk.js",
-    "main.js.map": "/static/js/main.bf39f585.chunk.js.map",
+    "main.js": "/static/js/main.e71ebc41.chunk.js",
+    "main.js.map": "/static/js/main.e71ebc41.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e107391b.js",
     "runtime-main.js.map": "/static/js/runtime-main.e107391b.js.map",
-    "static/js/2.93fca9e3.chunk.js": "/static/js/2.93fca9e3.chunk.js",
-    "static/js/2.93fca9e3.chunk.js.map": "/static/js/2.93fca9e3.chunk.js.map",
+    "static/js/2.b82c6f84.chunk.js": "/static/js/2.b82c6f84.chunk.js",
+    "static/js/2.b82c6f84.chunk.js.map": "/static/js/2.b82c6f84.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.7d200343.chunk.css.map": "/static/css/main.7d200343.chunk.css.map",
-    "static/js/2.93fca9e3.chunk.js.LICENSE.txt": "/static/js/2.93fca9e3.chunk.js.LICENSE.txt",
+    "static/js/2.b82c6f84.chunk.js.LICENSE.txt": "/static/js/2.b82c6f84.chunk.js.LICENSE.txt",
     "static/media/C.867c839c.png": "/static/media/C.867c839c.png",
     "static/media/CSS.7d039f84.png": "/static/media/CSS.7d039f84.png",
+    "static/media/CVWebsite.ba0f1451.png": "/static/media/CVWebsite.ba0f1451.png",
     "static/media/ISEP.81c8c1ac.png": "/static/media/ISEP.81c8c1ac.png",
     "static/media/NFT.ae789b48.png": "/static/media/NFT.ae789b48.png",
     "static/media/antlr.ff8aa8ce.png": "/static/media/antlr.ff8aa8ce.png",
     "static/media/asm.72f86e2f.png": "/static/media/asm.72f86e2f.png",
+    "static/media/bugsBronny.587b0ea8.png": "/static/media/bugsBronny.587b0ea8.png",
     "static/media/computer-database.d712c286.png": "/static/media/computer-database.d712c286.png",
     "static/media/courses-database.d3b6e37e.png": "/static/media/courses-database.d3b6e37e.png",
     "static/media/discord-bot-aylog.e18a0cfb.png": "/static/media/discord-bot-aylog.e18a0cfb.png",
     "static/media/dotnet.f9abf75e.png": "/static/media/dotnet.f9abf75e.png",
     "static/media/earth-app.dc5c68dc.jpg": "/static/media/earth-app.dc5c68dc.jpg",
     "static/media/fiverr.fa5fb83f.svg": "/static/media/fiverr.fa5fb83f.svg",
+    "static/media/flappyBird.fa9d774c.png": "/static/media/flappyBird.fa9d774c.png",
     "static/media/freelancer-application.07df46b0.jpg": "/static/media/freelancer-application.07df46b0.jpg",
     "static/media/gnu.bd046e07.svg": "/static/media/gnu.bd046e07.svg",
     "static/media/helpdesk-service.43d2649d.png": "/static/media/helpdesk-service.43d2649d.png",
@@ -42,8 +45,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e107391b.js",
-    "static/js/2.93fca9e3.chunk.js",
+    "static/js/2.b82c6f84.chunk.js",
     "static/css/main.7d200343.chunk.css",
-    "static/js/main.bf39f585.chunk.js"
+    "static/js/main.e71ebc41.chunk.js"
   ]
 }
