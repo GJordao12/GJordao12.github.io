@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c853fb07.chunk.css",
-    "main.js": "/static/js/main.52ca922a.chunk.js",
-    "main.js.map": "/static/js/main.52ca922a.chunk.js.map",
+    "main.js": "/static/js/main.9c5de6d5.chunk.js",
+    "main.js.map": "/static/js/main.9c5de6d5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e107391b.js",
     "runtime-main.js.map": "/static/js/runtime-main.e107391b.js.map",
     "static/js/2.b82c6f84.chunk.js": "/static/js/2.b82c6f84.chunk.js",
@@ -37,19 +37,23 @@
     "static/media/markdown.2d332384.png": "/static/media/markdown.2d332384.png",
     "static/media/market.45b81414.PNG": "/static/media/market.45b81414.PNG",
     "static/media/me.ab3552ea.jpg": "/static/media/me.ab3552ea.jpg",
+    "static/media/mySQL.ac3ceaee.png": "/static/media/mySQL.ac3ceaee.png",
     "static/media/nodejs.7b7c4003.png": "/static/media/nodejs.7b7c4003.png",
+    "static/media/prolog.7bd06cbf.png": "/static/media/prolog.7bd06cbf.png",
     "static/media/react.73ac128a.png": "/static/media/react.73ac128a.png",
+    "static/media/restAPI.c0f9a209.png": "/static/media/restAPI.c0f9a209.png",
     "static/media/sceneBuilder.af912fb4.webp": "/static/media/sceneBuilder.af912fb4.webp",
     "static/media/sql.2d1da8d0.png": "/static/media/sql.2d1da8d0.png",
     "static/media/threejs.7c862b1b.png": "/static/media/threejs.7c862b1b.png",
     "static/media/time-series.0fe5ac98.png": "/static/media/time-series.0fe5ac98.png",
     "static/media/tulsa.872b9263.png": "/static/media/tulsa.872b9263.png",
+    "static/media/typeScript.c4105801.png": "/static/media/typeScript.c4105801.png",
     "static/media/vp.a247815d.png": "/static/media/vp.a247815d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e107391b.js",
     "static/js/2.b82c6f84.chunk.js",
     "static/css/main.c853fb07.chunk.css",
-    "static/js/main.52ca922a.chunk.js"
+    "static/js/main.9c5de6d5.chunk.js"
   ]
 }
