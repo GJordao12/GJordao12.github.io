@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3bf7aa63.css",
-    "main.js": "/static/js/main.6714e1a7.js",
+    "main.css": "/static/css/main.46f1fc69.css",
+    "main.js": "/static/js/main.b032e3ba.js",
     "static/media/social-network-game.png": "/static/media/social-network-game.e271feeb1a748394c6c0.png",
     "static/media/landing-page-apis.png": "/static/media/landing-page-apis.eec7743a22d328cfe930.png",
     "static/media/tulsa.png": "/static/media/tulsa.872b9263a62ec5cfffc9.png",
@@ -44,11 +44,11 @@
     "index.html": "/index.html",
     "static/media/gnu.svg": "/static/media/gnu.bd046e07a886203dfa50dff450018b75.svg",
     "static/media/fiverr.svg": "/static/media/fiverr.fa5fb83fb5737faccbe5078af8970901.svg",
-    "main.3bf7aa63.css.map": "/static/css/main.3bf7aa63.css.map",
-    "main.6714e1a7.js.map": "/static/js/main.6714e1a7.js.map"
+    "main.46f1fc69.css.map": "/static/css/main.46f1fc69.css.map",
+    "main.b032e3ba.js.map": "/static/js/main.b032e3ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bf7aa63.css",
-    "static/js/main.6714e1a7.js"
+    "static/css/main.46f1fc69.css",
+    "static/js/main.b032e3ba.js"
   ]
 }
