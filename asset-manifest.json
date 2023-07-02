@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.46f1fc69.css",
-    "main.js": "/static/js/main.b032e3ba.js",
+    "main.js": "/static/js/main.69de4655.js",
     "static/media/social-network-game.png": "/static/media/social-network-game.e271feeb1a748394c6c0.png",
     "static/media/landing-page-apis.png": "/static/media/landing-page-apis.eec7743a22d328cfe930.png",
     "static/media/tulsa.png": "/static/media/tulsa.872b9263a62ec5cfffc9.png",
@@ -23,6 +23,7 @@
     "static/media/CSS.png": "/static/media/CSS.7d039f840c0c251dd48a.png",
     "static/media/helpdesk-service.png": "/static/media/helpdesk-service.43d2649df9388ff70e2d.png",
     "static/media/restAPI.png": "/static/media/restAPI.c0f9a20917b5fd102201.png",
+    "static/media/nexllence.png": "/static/media/nexllence.fa7a5bd9e201b47d5862.png",
     "static/media/prolog.png": "/static/media/prolog.7bd06cbfe05bc7a042d7.png",
     "static/media/NFT.png": "/static/media/NFT.ae789b48a9c088828863.png",
     "static/media/typeScript.png": "/static/media/typeScript.c4105801aadf2606ac30.png",
@@ -45,10 +46,10 @@
     "static/media/gnu.svg": "/static/media/gnu.bd046e07a886203dfa50dff450018b75.svg",
     "static/media/fiverr.svg": "/static/media/fiverr.fa5fb83fb5737faccbe5078af8970901.svg",
     "main.46f1fc69.css.map": "/static/css/main.46f1fc69.css.map",
-    "main.b032e3ba.js.map": "/static/js/main.b032e3ba.js.map"
+    "main.69de4655.js.map": "/static/js/main.69de4655.js.map"
   },
   "entrypoints": [
     "static/css/main.46f1fc69.css",
-    "static/js/main.b032e3ba.js"
+    "static/js/main.69de4655.js"
   ]
 }
