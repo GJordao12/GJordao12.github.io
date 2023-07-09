@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.46f1fc69.css",
-    "main.js": "/static/js/main.da1ef06b.js",
+    "main.css": "/static/css/main.7b4cf1f0.css",
+    "main.js": "/static/js/main.4620f8fc.js",
     "static/media/social-network-game.png": "/static/media/social-network-game.e271feeb1a748394c6c0.png",
     "static/media/landing-page-apis.png": "/static/media/landing-page-apis.eec7743a22d328cfe930.png",
     "static/media/tulsa.png": "/static/media/tulsa.872b9263a62ec5cfffc9.png",
@@ -44,12 +44,15 @@
     "static/media/market.PNG": "/static/media/market.45b814143c8870c06c70.PNG",
     "index.html": "/index.html",
     "static/media/gnu.svg": "/static/media/gnu.bd046e07a886203dfa50dff450018b75.svg",
-    "static/media/fiverr.svg": "/static/media/fiverr.fa5fb83fb5737faccbe5078af8970901.svg",
-    "main.46f1fc69.css.map": "/static/css/main.46f1fc69.css.map",
-    "main.da1ef06b.js.map": "/static/js/main.da1ef06b.js.map"
+    "static/media/github.svg": "/static/media/github.74b1c35f0590bc8008f142e88cd1ce39.svg",
+    "static/media/fiverr.svg": "/static/media/fiverr.c264aa687d708e8fe4d0f112c4701a2f.svg",
+    "static/media/instagram.svg": "/static/media/instagram.5d19b25725ac249427fd82567aa97dc4.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.4d24c676a00a96a1614a7479720d3aa4.svg",
+    "main.7b4cf1f0.css.map": "/static/css/main.7b4cf1f0.css.map",
+    "main.4620f8fc.js.map": "/static/js/main.4620f8fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.46f1fc69.css",
-    "static/js/main.da1ef06b.js"
+    "static/css/main.7b4cf1f0.css",
+    "static/js/main.4620f8fc.js"
   ]
 }
