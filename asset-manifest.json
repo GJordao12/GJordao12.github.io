@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7b4cf1f0.css",
-    "main.js": "/static/js/main.94ab5589.js",
+    "main.js": "/static/js/main.c297a634.js",
     "static/media/social-network-game.png": "/static/media/social-network-game.e271feeb1a748394c6c0.png",
     "static/media/landing-page-apis.png": "/static/media/landing-page-apis.eec7743a22d328cfe930.png",
     "static/media/tulsa.png": "/static/media/tulsa.872b9263a62ec5cfffc9.png",
@@ -49,10 +49,10 @@
     "static/media/instagram.svg": "/static/media/instagram.5d19b25725ac249427fd82567aa97dc4.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.4d24c676a00a96a1614a7479720d3aa4.svg",
     "main.7b4cf1f0.css.map": "/static/css/main.7b4cf1f0.css.map",
-    "main.94ab5589.js.map": "/static/js/main.94ab5589.js.map"
+    "main.c297a634.js.map": "/static/js/main.c297a634.js.map"
   },
   "entrypoints": [
     "static/css/main.7b4cf1f0.css",
-    "static/js/main.94ab5589.js"
+    "static/js/main.c297a634.js"
   ]
 }
